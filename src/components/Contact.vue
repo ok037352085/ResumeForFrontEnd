@@ -44,7 +44,7 @@ const sendMessage = async () => {
 </script>
 
 <template>
-    <section class="contact-footer">
+    <section id="contact" class="contact-footer">
         <div class="contact-section">
             <h2>Contact Me</h2>
             <p>有合作或面試邀約歡迎聯絡我!</p>
