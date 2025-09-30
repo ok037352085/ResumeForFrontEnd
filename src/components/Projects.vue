@@ -18,14 +18,14 @@
         {
             id: 2,
             title: '氣象查詢網站',
-            description: '使用 Vue3 串接 OpenWeather API，支援城市搜尋、錯誤提示、Loading動畫，並針對手機進行 RWD',
+            description: '使用 Vue3 串接 OpenWeather API，支援城市搜尋、錯誤提示、Loading動畫，頁面會根據所選地區的天氣改變動畫。',
             image: WeatherAPI,
             link: 'https://ok037352085.github.io/WeatherAPI/'
         },
         {
             id: 3,
             title: '音樂查找撥放網站',
-            description: '使用Vue3 串接 Spotify API，提供spotify帳號的登入，音樂查找及撥放(網頁播放需要spotify premium會員)',
+            description: '使用Vue3 串接 Spotify API，提供spotify帳號的登入，音樂查找及撥放(網頁播放需要spotify premium會員)。',
             image: SpotifyAPI,
             link: 'https://ok037352085.github.io/SpotifyAPI/'
         },
@@ -39,7 +39,7 @@
         {
             id: 5,
             title: '網路服飾店',
-            description: '使用React + Fake Store API，做出簡單的購物網站，具備購物車系統，將想購買的商品點選加入購物車，即可同步在購物車顯示商品、數量。(其他功能如註冊登入等尚未實裝)', 
+            description: '使用React + Fake Store API，做出簡單的購物網站，具備購物車系統，將想購買的商品點選加入購物車，即可同步在購物車顯示商品、數量。(其他功能如註冊登入等尚未實裝)。', 
             image: ClothingStore,
             link: 'https://ok037352085.github.io/ClothingStore/'
         }
