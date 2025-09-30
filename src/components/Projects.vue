@@ -4,7 +4,7 @@
     import WeatherAPI from '/projectImg/WeatherAPI.png'
     import SpotifyAPI from '/projectImg/SpotifyAPI.png'
     import TravelWebSite from '/projectImg/TravelWebSite.png'
-    import ClothingStore from '/porjectImg/ClothingStore.png'
+    import ClothingStore from '/projectImg/ClothingStore.png'
 
 
     const projects = ref([
