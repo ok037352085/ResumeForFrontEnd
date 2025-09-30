@@ -52,7 +52,7 @@
     <section id="projects" class="projects">
         <h1 class="section-title">我的作品</h1>
         <div class="grid">
-            <div class="card" v-for="project in projects">
+            <div class="card" v-for="project in projects" :key="projects.id">
                 <img class="card-image" :src="project.image" :alt="project.title" />
                 <div class="card-body">
                     <h3 class="card-title">{{ project.title }}</h3>
