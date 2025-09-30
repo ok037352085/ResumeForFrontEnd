@@ -4,6 +4,7 @@
     import WeatherAPI from '/projectImg/WeatherAPI.png'
     import SpotifyAPI from '/projectImg/SpotifyAPI.png'
     import TravelWebSite from '/projectImg/TravelWebSite.png'
+    import ClothingStore from '/porjectImg/react-myShop.png'
 
 
     const projects = ref([
@@ -34,6 +35,13 @@
             description: '使用Vue3 + Firebase 打造會員註冊與登入功能，將網站demo的景點收藏排列組合成一個完整的行程並保存在會員帳號中，留言區及時同步更新，並支援跑馬燈顯示使用者留言。',
             image: TravelWebSite,
             link: 'https://ok037352085.github.io/TravelWebSite'
+        },
+        {
+            id: 5,
+            title: '網路服飾店',
+            description: '使用React + Fake Store API，做出簡單的購物網站，具備購物車系統，將想購買的商品點選加入購物車，即可同步在購物車顯示商品、數量。(其他功能如註冊登入等尚未實裝)', 
+            image: ClothingStore,
+            link: 'https://ok037352085.github.io/ClothingStore/'
         }
     ])
 
