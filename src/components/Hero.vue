@@ -11,8 +11,16 @@
 
       <div class="hero-text">
         <h1>Hi, I’m Jim.</h1>
-        <h2>我是葉勁桐</h2>
-        <p>熱愛探索新事物並持續學習新技術，善於思考與解決問題，同時重視開發效率。<br/>喜歡團隊合作的氛圍，樂於分享與討論程式設計及相關知識，並具備後端資料庫的基礎知識，有助於與後端團隊順暢溝通，提升專案整體協作效率。</p>
+        <h2>Front-End Developer</h2>
+        <h3>專長：Vue 3 • API Integration • RWD • Git</h3>
+        <p>
+          大學主修遊戲程式設計，畢業後自學前端技術，熟悉 HTML、CSS、JavaScript、Vue 3，也有React基礎，並具備 API 串接與 Git 版本控制經驗。
+          喜歡學習新技術並應用於專案，透過實作不斷精進。曾完成互動式技能圖表、天氣查詢網站、全年行事曆與旅遊網站，皆已公開部署與原始碼。
+        </p>
+        <div class="hero-btn">
+          <button><a href="#projects">查看作品</a></button>
+          <button><a href="#contact">聯絡我</a></button>
+      </div>
       </div>
     </div>
   </section>
@@ -60,6 +68,29 @@
   font-size: 1.3rem;
   line-height: 1.6;
   max-width: 500px;
+  padding-top: 10px;
+}
+
+button {
+  display: inline-block;
+  margin: 10px;
+  padding: 8px 16px;
+  background: bisque;
+  color: #2a1e17;
+  border-radius: 10px;
+  transition: background 0.2s;
+  cursor: pointer;
+  border: none;
+}
+
+button:hover {
+  background: #be4600;
+}
+
+button a {
+  color: #2a1e17;
+  text-decoration: none;
+  font-weight: 900;
 }
 
 /* RWD：手機時改成上下排 */

@@ -11,21 +11,21 @@
         {
             id: 1,
             title: '2025行事曆 & TodoList',
-            description: '以Vue3 + Vite 製作，可點選日期管理每日代辦事項，支援新增、刪除，介面簡潔直覺。',
+            description: 'Vue 3 + Composition API，支援年度任務套用與彈出視窗管理',
             image: TodoList,
             link: 'https://ok037352085.github.io/TodoList/'
         },
         {
             id: 2,
             title: '氣象查詢網站',
-            description: '使用 Vue3 串接 OpenWeather API，支援城市搜尋、錯誤提示、Loading動畫，頁面會根據所選地區的天氣改變動畫。',
+            description: 'API 串接 + RWD，包含 Loading 動畫與錯誤處理，根據天氣改變網頁動畫',
             image: WeatherAPI,
             link: 'https://ok037352085.github.io/WeatherAPI/'
         },
         {
             id: 3,
             title: '音樂查找撥放網站',
-            description: '使用Vue3 串接 Spotify API，提供spotify帳號的登入，音樂查找及撥放(網頁播放需要spotify premium會員)。',
+            description: '使用Vue3 串接 Spotify API，提供spotify帳號的登入，音樂查找及撥放。',
             image: SpotifyAPI,
             link: 'https://ok037352085.github.io/SpotifyAPI/'
         },

@@ -9,7 +9,7 @@ import Contact from './components/Contact.vue'
 
 <template>
   <Navbar />
-  <main class="space-y-32">
+  <main>
     <Hero />
     <About />
     <Project />
