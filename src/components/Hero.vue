@@ -14,8 +14,8 @@
         <h2>Front-End Developer</h2>
         <h3>專長：Vue 3 • React • API Integration • RWD • Git</h3>
         <p>
-          大學主修遊戲程式設計，畢業後自學前端技術，擅長使用Vue3及React框架協助開發網站，並具備 API 串接與 Git 版本控制經驗。
-          喜歡學習新技術並應用於專案，透過實作不斷精進。曾完成互動式技能圖表、天氣查詢網站、全年行事曆與旅遊網站，皆已公開部署與原始碼。
+          大學主修遊戲程式設計，畢業後自學前端技術，擅長使用Vue3及React框架協助開發網站，具備 API 串接經驗並使用 Git 進行版本控管。
+          喜歡學習新技術並應用於專案，透過實作不斷精進。曾完成互動式技能圖表、天氣查詢網站、全年行事曆、旅遊網站和網路商店，皆已公開部署至Github Pages。
         </p>
         <div class="hero-btn">
           <button><a href="#projects">查看作品</a></button>
