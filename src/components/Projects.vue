@@ -99,12 +99,16 @@
 
     .card-image {
         width: 100%;
-        height: 180px;
+        height: 15rem;
         object-fit: cover;
     }
 
     .card-body {
-        padding: 20px;
+        height: 50%;
+        padding: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .card-title {
@@ -114,13 +118,14 @@
     }
 
     .card-description {
+        height: 100%;
         font-size: 18px;
         color: #333;
         margin-bottom: 10px;
     }
 
     .card-btn {
-        display: inline-block;
+        width: 25%;
         padding: 8px 16px;
         background: #2a1e17;
         color: bisque;
@@ -129,6 +134,7 @@
         font-weight: bold;
         transition: background 0.2s;
         cursor: pointer;
+        text-align: center;
     }
     .card-btn:hover {
         background: #be4600;
